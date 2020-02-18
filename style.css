@@ -42,8 +42,26 @@ nav{
 /* Structure layout */
 
 #wrapper{
+   border: 3px solid black;
     width: 900px;
     margin: 0px auto; 
+}
+
+#content-sidebar-wrapper{
+   
+   clear: both;
+}
+
+#content{
+    border: 3px solid black;
+    width: 75%;
+    float: left;
+}
+
+#sidebar{
+    border: 3px solid black;
+    width: 25%;
+    float: right;
 }
 
 

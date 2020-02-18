@@ -1,0 +1,165 @@
+/* stylesheet for Dan's Donut Den*/
+*{
+    box-sizing: border-box;
+}
+h1{
+    color: lightcyan;
+    padding: 20px;
+    font-size: 75px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2{
+    color: lightcyan;
+    padding: 20px;
+}
+
+h3{
+
+    color: lightcyan;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.main-logo{
+    float: right;
+    clear: both;
+    width: 30%;
+    padding: 0px 50px;
+}
+
+
+p{
+    clear: both;
+    padding: 10px;
+}
+
+nav li a{
+    display: block;
+    padding: 10px 30px 10px 0px;
+    float: left;
+    color:yellow;
+    font-size: 40px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+nav li{
+    list-style-type: none;
+    display: block;
+    float: left;
+}
+
+nav{
+    clear: both;
+    
+}
+/* nav structure
+
+
+/* Structure layout */
+
+#wrapper{
+   border: 3px solid lightcyan;
+    width: 900px;
+    margin: 0px auto;
+    background-color:lightcoral;
+ 
+}
+
+#content-sidebar-wrapper{
+   
+   clear: both;
+}
+
+#content{
+    border: 3px solid lightcyan;
+    width: 75%;
+    float: left;
+}
+
+#about-info{
+    border: 3px solid lightcyan;
+    width: 75%;
+    float: left;
+    font-size: 23px;
+}
+
+#sidebar{
+    border: 3px solid lightcyan;
+    width: 25%;
+    float: right;
+}
+
+footer{
+    clear: both;
+    width: 100%;
+    padding: 20px;
+}
+
+
+
+/* CSS for menu */
+
+ul {
+    list-style:none;
+    position:relative;
+    padding-inline-start: 0;
+    padding: 20px;
+    font-size: 25px;
+}
+ul.list {
+    float:left;
+    width:450px;
+    margin:20px;
+    font-size: 25px;
+    
+}
+
+.box{
+    list-style:none;
+    width: 30%;
+    float: left;
+}
+
+.box-container{
+clear: both;
+    width: 100%;
+
+}
+
+.header{
+    padding: 20px;
+    float: left;
+    clear: both;
+    width: 70%;
+}
+
+article{
+    padding: 20px;
+}
+
+/* background images */
+
+
+#index{
+    background-image: url("donutImage/colorfulDonuts5.jpg");
+    background-size: cover;
+}
+
+#about{
+    background-image: url("donutImage/colorfulDonuts7.jpg");
+    background-size: cover;
+}
+
+#menu{
+    background-image: url("donutImage/colorfulDonuts9.jpeg");
+    background-size: cover;
+}
+
+#time{
+    clear: both;
+    float: left;
+}
+
+
+
