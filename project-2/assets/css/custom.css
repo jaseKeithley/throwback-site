@@ -1,0 +1,17 @@
+/* custom css file */
+
+/* home page main image */
+
+#home-main-image {
+    background-image: url(../img/home-page-man-heping-lady.jpg);
+    background-size: cover;
+}
+
+#home-main-image .cell {
+    min-height: 300px;
+}
+
+blockquote {
+
+    font-style: italic;
+}
