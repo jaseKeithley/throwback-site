@@ -15,3 +15,12 @@ blockquote {
 
     font-style: italic;
 }
+
+footer{
+    background-color: #292929;
+    color: #fff;
+}
+
+footer label{
+    color: #fff;
+}
