@@ -7,6 +7,12 @@
     background-size: cover;
 }
 
+#get-a-ride-image {
+    background-image: url(../img/senior-women-walking.jpg);
+    background-size: cover;
+    /* Senior women walking image */
+}
+
 #home-main-image .cell {
     min-height: 300px;
 }
@@ -16,6 +22,8 @@ blockquote {
     font-style: italic;
 }
 
+
+
 footer{
     background-color: #292929;
     color: #fff;
@@ -23,4 +31,8 @@ footer{
 
 footer label{
     color: #fff;
+}
+
+p {
+    font-size: 20px;
 }
