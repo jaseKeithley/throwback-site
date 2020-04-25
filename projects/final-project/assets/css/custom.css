@@ -1,0 +1,65 @@
+body {
+        background-color: black;
+}
+
+h1{
+        background-color: black;
+        color: white;    
+}
+
+.callout-large{
+    background-color: black;
+    color: black;
+    padding-bottom: 50px;
+}
+.row-column-text-center{
+    background-color: black;
+    color: black;
+}
+.menu-text{
+    background-color: black;
+}
+div{
+        background-color: black;
+        color: white; 
+}
+
+.top-bar{
+    background-color: black;
+    color: black;
+}
+
+.menu{
+    background-color: black;
+    color: red; 
+}
+
+ul{
+    background-color: black;
+    color: white; 
+}
+li{
+    background-color: black;
+    color: greenyellow;
+}
+
+
+
+label{
+    color: red;
+}
+
+
+footer{
+    padding-left: 250px;
+
+}
+
+.grid-x grid-margin-x-grid-padding-x{
+    padding-left: 100px;
+}
+
+
+
+
+
